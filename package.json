@@ -27,7 +27,7 @@
     "prettier-plugin-packagejson": "^2.5.10"
   },
   "devDependencies": {
-    "eslint": "^9.23.0",
+    "eslint": "^9.25.1",
     "neostandard": "^0.12.1",
     "prettier": "^3.5.3"
   }
