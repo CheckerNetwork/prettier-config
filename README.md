@@ -8,9 +8,9 @@ Add this package as a dev-dependency to your project and tell prettier to use it
 
 ```json
 {
-  "prettier": "@CheckerNetwork/prettier-config"
+  "prettier": "@checkernetwork/prettier-config"
   "devDependencies": {
-    "@CheckerNetwork/prettier-config": "^1.0.0",
+    "@checkernetwork/prettier-config": "^1.0.0",
     "prettier": "^3.5.3"
   }
 }
