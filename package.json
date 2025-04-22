@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@checkernetwork/prettier-config",
   "version": "0.0.1",
   "description": "Shared configuration for Prettier",
   "homepage": "https://github.com/CheckerNetwork/prettier-config#readme",
